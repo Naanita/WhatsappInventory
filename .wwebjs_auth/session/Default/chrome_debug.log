@@ -1,0 +1,60 @@
+[0603/114311.942:INFO:CONSOLE(162)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yF/r/virkZ2rETrQ.js (162)
+[0603/114315.172:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Feature xr-spatial-tracking's parameters are ignored.", source:  (0)
+[0603/114315.172:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'attribution-reporting'.", source:  (0)
+[0603/114315.172:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'compute-pressure'.", source:  (0)
+[0603/114315.174:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0603/114315.174:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'private-state-token-issuance'.", source:  (0)
+[0603/114315.174:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'shared-storage'.", source:  (0)
+[0603/114315.174:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'shared-storage-select-url'.", source:  (0)
+[0603/114315.174:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'private-state-token-redemption'.", source:  (0)
+[0603/114315.174:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'unload'.", source:  (0)
+[0603/114315.174:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
+[0603/114315.174:INFO:CONSOLE(0)] "Document-Policy HTTP header: Unrecognized document policy feature name include-js-call-stacks-in-crash-reports.", source: https://web.whatsapp.com/ (0)
+[0603/114316.738:INFO:CONSOLE(163)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yx/r/ZlKvancWdJd.js (163)
+[0603/114320.211:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Feature xr-spatial-tracking's parameters are ignored.", source:  (0)
+[0603/114320.211:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'attribution-reporting'.", source:  (0)
+[0603/114320.211:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'compute-pressure'.", source:  (0)
+[0603/114320.211:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0603/114320.211:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'private-state-token-issuance'.", source:  (0)
+[0603/114320.211:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'shared-storage'.", source:  (0)
+[0603/114320.211:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'shared-storage-select-url'.", source:  (0)
+[0603/114320.211:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'private-state-token-redemption'.", source:  (0)
+[0603/114320.211:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'unload'.", source:  (0)
+[0603/114320.211:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
+[0603/114320.211:INFO:CONSOLE(0)] "Document-Policy HTTP header: Unrecognized document policy feature name include-js-call-stacks-in-crash-reports.", source: https://web.whatsapp.com/?logout_reason=3&logout_message_header=Se+cerr%C3%B3+tu+sesi%C3%B3n+por+utilizar+una+aplicaci%C3%B3n+no+oficial.&logout_message_subtext=Para+volver+a+iniciar+sesi%C3%B3n%2C+descarga+la+aplicaci%C3%B3n+WhatsApp+oficial+y+verifica+tu+cuenta. (0)
+[0603/114320.498:ERROR:backend_impl.cc(754)] Unable to create file: -4
+[0603/114320.499:ERROR:entry_impl.cc(995)] Failed to save user data
+[0603/114320.500:ERROR:backend_impl.cc(754)] Unable to create file: -4
+[0603/114320.500:ERROR:entry_impl.cc(995)] Failed to save user data
+[0603/114320.558:ERROR:backend_impl.cc(754)] Unable to create file: -4
+[0603/114320.558:ERROR:entry_impl.cc(995)] Failed to save user data
+[0603/114320.558:ERROR:entry_impl.cc(1072)] No file for 80000014
+[0603/114320.563:ERROR:backend_impl.cc(754)] Unable to create file: -4
+[0603/114320.563:ERROR:entry_impl.cc(995)] Failed to save user data
+[0603/114320.565:ERROR:entry_impl.cc(1072)] No file for 80000015
+[0603/114320.587:ERROR:backend_impl.cc(754)] Unable to create file: -4
+[0603/114320.587:ERROR:entry_impl.cc(995)] Failed to save user data
+[0603/114320.588:ERROR:backend_impl.cc(754)] Unable to create file: -4
+[0603/114320.588:ERROR:entry_impl.cc(995)] Failed to save user data
+[0603/114320.590:ERROR:backend_impl.cc(754)] Unable to create file: -4
+[0603/114320.590:ERROR:entry_impl.cc(995)] Failed to save user data
+[0603/114320.603:ERROR:backend_impl.cc(754)] Unable to create file: -4
+[0603/114320.603:ERROR:entry_impl.cc(995)] Failed to save user data
+[0603/114320.604:ERROR:backend_impl.cc(754)] Unable to create file: -4
+[0603/114320.604:ERROR:entry_impl.cc(995)] Failed to save user data
+[0603/114320.660:ERROR:backend_impl.cc(754)] Unable to create file: -4
+[0603/114320.660:ERROR:entry_impl.cc(995)] Failed to save user data
+[0603/114320.667:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from C:\Users\sebastian.grajales\Documents\ME\CODE\OTHERS\WHATSAPP FINANCE BOT\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: C:\Users\sebastian.grajales\Documents\ME\CODE\OTHERS\WHATSAPP FINANCE BOT\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0603/114320.678:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from C:\Users\sebastian.grajales\Documents\ME\CODE\OTHERS\WHATSAPP FINANCE BOT\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: C:\Users\sebastian.grajales\Documents\ME\CODE\OTHERS\WHATSAPP FINANCE BOT\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0603/114320.692:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from C:\Users\sebastian.grajales\Documents\ME\CODE\OTHERS\WHATSAPP FINANCE BOT\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: C:\Users\sebastian.grajales\Documents\ME\CODE\OTHERS\WHATSAPP FINANCE BOT\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0603/114320.702:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from C:\Users\sebastian.grajales\Documents\ME\CODE\OTHERS\WHATSAPP FINANCE BOT\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: C:\Users\sebastian.grajales\Documents\ME\CODE\OTHERS\WHATSAPP FINANCE BOT\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0603/114320.717:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from C:\Users\sebastian.grajales\Documents\ME\CODE\OTHERS\WHATSAPP FINANCE BOT\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: C:\Users\sebastian.grajales\Documents\ME\CODE\OTHERS\WHATSAPP FINANCE BOT\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0603/114320.723:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from C:\Users\sebastian.grajales\Documents\ME\CODE\OTHERS\WHATSAPP FINANCE BOT\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: C:\Users\sebastian.grajales\Documents\ME\CODE\OTHERS\WHATSAPP FINANCE BOT\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0603/114320.731:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from C:\Users\sebastian.grajales\Documents\ME\CODE\OTHERS\WHATSAPP FINANCE BOT\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: C:\Users\sebastian.grajales\Documents\ME\CODE\OTHERS\WHATSAPP FINANCE BOT\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0603/114320.737:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from C:\Users\sebastian.grajales\Documents\ME\CODE\OTHERS\WHATSAPP FINANCE BOT\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: C:\Users\sebastian.grajales\Documents\ME\CODE\OTHERS\WHATSAPP FINANCE BOT\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::4)
+[0603/114320.784:ERROR:entry_impl.cc(1072)] No file for 80000098
+[0603/114320.790:INFO:CONSOLE(1)] "Uncaught NetworkError: Failed to execute 'importScripts' on 'WorkerGlobalScope': The script at 'https://static.whatsapp.net/rsrc.php/v4/y7/r/s_nCC9WaSpD.js' failed to load.", source: https://web.whatsapp.com/static_resources/webworker_v1/init_script/?__hs=20242.HYP%3Awhatsapp_comet_pkg.2.1...1&__spin_r=1023437463&__spin_b=trunk&__spin_t=1748968769 (1)
+[0603/114320.839:ERROR:backend_impl.cc(754)] Unable to create file: -4
+[0603/114320.839:ERROR:entry_impl.cc(995)] Failed to save user data
+[0603/114320.869:ERROR:backend_impl.cc(754)] Unable to create file: -4
+[0603/114320.869:ERROR:entry_impl.cc(995)] Failed to save user data

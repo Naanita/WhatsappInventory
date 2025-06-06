@@ -1,0 +1,58 @@
+2025/06/03-16:02:32.670 39b0 Reusing MANIFEST C:\Users\sebastian.grajales\Documents\ME\CODE\OTHERS\WHATSAPP FINANCE BOT\.wwebjs_auth\session-bot2\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/03-16:02:32.672 39b0 Recovering log #1295
+2025/06/03-16:02:32.767 39b0 Reusing old log C:\Users\sebastian.grajales\Documents\ME\CODE\OTHERS\WHATSAPP FINANCE BOT\.wwebjs_auth\session-bot2\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001295.log 
+2025/06/03-16:02:34.215 88e8 Level-0 table #1319: started
+2025/06/03-16:02:34.231 88e8 Level-0 table #1319: 1092345 bytes OK
+2025/06/03-16:02:34.233 88e8 Delete type=0 #1295
+2025/06/03-16:02:34.234 88e8 Manual compaction at level-0 from '\x00F\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00G\x00\x00\x00' @ 0 : 0; will stop at '\x00F\x00\x00\x05' @ 3577544 : 1
+2025/06/03-16:02:34.234 88e8 Compacting 1@0 + 0@1 files
+2025/06/03-16:02:34.254 88e8 Generated table #1320@0: 20853 keys, 425592 bytes
+2025/06/03-16:02:34.258 88e8 Generated table #1321@0: 672 keys, 15708 bytes
+2025/06/03-16:02:34.258 88e8 Compacted 1@0 + 0@1 files => 441300 bytes
+2025/06/03-16:02:34.260 88e8 compacted to: files[ 0 2 22 0 0 0 0 ]
+2025/06/03-16:02:34.260 88e8 Delete type=2 #1319
+2025/06/03-16:02:34.261 88e8 Manual compaction at level-0 from '\x00F\x00\x00\x05' @ 3577544 : 1 .. '\x00G\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/06/03-16:02:35.318 88e8 Compacting 1@1 + 10@2 files
+2025/06/03-16:02:35.371 88e8 Generated table #1322@1: 70116 keys, 2239813 bytes
+2025/06/03-16:02:35.395 88e8 Generated table #1323@1: 2745 keys, 2152753 bytes
+2025/06/03-16:02:35.419 88e8 Generated table #1324@1: 3106 keys, 2153763 bytes
+2025/06/03-16:02:35.445 88e8 Generated table #1325@1: 2830 keys, 2154382 bytes
+2025/06/03-16:02:35.464 88e8 Generated table #1326@1: 2332 keys, 2151005 bytes
+2025/06/03-16:02:35.486 88e8 Generated table #1327@1: 3700 keys, 2152764 bytes
+2025/06/03-16:02:35.525 88e8 Generated table #1328@1: 25655 keys, 2211432 bytes
+2025/06/03-16:02:35.572 88e8 Generated table #1329@1: 29505 keys, 2271048 bytes
+2025/06/03-16:02:35.620 88e8 Generated table #1330@1: 30535 keys, 2260384 bytes
+2025/06/03-16:02:35.639 88e8 Generated table #1331@1: 8209 keys, 918083 bytes
+2025/06/03-16:02:35.640 88e8 Compacted 1@1 + 10@2 files => 20665427 bytes
+2025/06/03-16:02:35.641 88e8 compacted to: files[ 0 1 22 0 0 0 0 ]
+2025/06/03-16:02:35.642 88e8 Delete type=2 #1299
+2025/06/03-16:02:35.642 88e8 Delete type=2 #1300
+2025/06/03-16:02:35.642 88e8 Delete type=2 #1301
+2025/06/03-16:02:35.642 88e8 Delete type=2 #1302
+2025/06/03-16:02:35.642 88e8 Delete type=2 #1303
+2025/06/03-16:02:35.642 88e8 Delete type=2 #1304
+2025/06/03-16:02:35.642 88e8 Delete type=2 #1305
+2025/06/03-16:02:35.642 88e8 Delete type=2 #1306
+2025/06/03-16:02:35.642 88e8 Delete type=2 #1307
+2025/06/03-16:02:35.642 88e8 Delete type=2 #1308
+2025/06/03-16:02:35.642 88e8 Delete type=2 #1320
+2025/06/03-16:03:43.778 88e8 Compacting 1@1 + 8@2 files
+2025/06/03-16:03:43.830 88e8 Generated table #1332@1: 55171 keys, 2191218 bytes
+2025/06/03-16:03:43.892 88e8 Generated table #1333@1: 102670 keys, 2253533 bytes
+2025/06/03-16:03:43.955 88e8 Generated table #1334@1: 102618 keys, 2251739 bytes
+2025/06/03-16:03:44.015 88e8 Generated table #1335@1: 102232 keys, 2251625 bytes
+2025/06/03-16:03:44.077 88e8 Generated table #1336@1: 101383 keys, 2252178 bytes
+2025/06/03-16:03:44.138 88e8 Generated table #1337@1: 101527 keys, 2250130 bytes
+2025/06/03-16:03:44.200 88e8 Generated table #1338@1: 101771 keys, 2252877 bytes
+2025/06/03-16:03:44.214 88e8 Generated table #1339@1: 14770 keys, 326700 bytes
+2025/06/03-16:03:44.214 88e8 Compacted 1@1 + 8@2 files => 16030000 bytes
+2025/06/03-16:03:44.216 88e8 compacted to: files[ 0 0 22 0 0 0 0 ]
+2025/06/03-16:03:44.217 88e8 Delete type=2 #1309
+2025/06/03-16:03:44.217 88e8 Delete type=2 #1310
+2025/06/03-16:03:44.217 88e8 Delete type=2 #1311
+2025/06/03-16:03:44.217 88e8 Delete type=2 #1312
+2025/06/03-16:03:44.217 88e8 Delete type=2 #1313
+2025/06/03-16:03:44.217 88e8 Delete type=2 #1314
+2025/06/03-16:03:44.217 88e8 Delete type=2 #1315
+2025/06/03-16:03:44.217 88e8 Delete type=2 #1316
+2025/06/03-16:03:44.217 88e8 Delete type=2 #1321

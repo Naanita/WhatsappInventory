@@ -1,0 +1,38 @@
+2025/06/03-16:08:42.822 6e3c Reusing MANIFEST C:\Users\sebastian.grajales\Documents\ME\CODE\OTHERS\WHATSAPP FINANCE BOT\.wwebjs_auth\session-bot2\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/03-16:08:42.826 6e3c Recovering log #1318
+2025/06/03-16:08:42.887 6e3c Reusing old log C:\Users\sebastian.grajales\Documents\ME\CODE\OTHERS\WHATSAPP FINANCE BOT\.wwebjs_auth\session-bot2\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001318.log 
+2025/06/03-16:08:44.337 8efc Level-0 table #1342: started
+2025/06/03-16:08:44.350 8efc Level-0 table #1342: 695272 bytes OK
+2025/06/03-16:08:44.353 8efc Delete type=0 #1318
+2025/06/03-16:08:44.353 8efc Manual compaction at level-0 from '\x00G\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00H\x00\x00\x00' @ 0 : 0; will stop at '\x00G\x00\x00\x05' @ 3602560 : 1
+2025/06/03-16:08:44.353 8efc Compacting 1@0 + 0@1 files
+2025/06/03-16:08:44.368 8efc Generated table #1343@0: 13902 keys, 283774 bytes
+2025/06/03-16:08:44.372 8efc Generated table #1344@0: 325 keys, 8348 bytes
+2025/06/03-16:08:44.372 8efc Compacted 1@0 + 0@1 files => 292122 bytes
+2025/06/03-16:08:44.374 8efc compacted to: files[ 0 2 22 0 0 0 0 ]
+2025/06/03-16:08:44.374 8efc Delete type=2 #1342
+2025/06/03-16:08:44.375 8efc Manual compaction at level-0 from '\x00G\x00\x00\x05' @ 3602560 : 1 .. '\x00H\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/06/03-16:08:45.456 8efc Compacting 1@1 + 10@2 files
+2025/06/03-16:08:45.516 8efc Generated table #1345@1: 72484 keys, 2241782 bytes
+2025/06/03-16:08:45.537 8efc Generated table #1346@1: 2764 keys, 2151125 bytes
+2025/06/03-16:08:45.560 8efc Generated table #1347@1: 3074 keys, 2154664 bytes
+2025/06/03-16:08:45.582 8efc Generated table #1348@1: 2853 keys, 2157462 bytes
+2025/06/03-16:08:45.602 8efc Generated table #1349@1: 2286 keys, 2152019 bytes
+2025/06/03-16:08:45.623 8efc Generated table #1350@1: 3684 keys, 2152753 bytes
+2025/06/03-16:08:45.673 8efc Generated table #1351@1: 24943 keys, 2208309 bytes
+2025/06/03-16:08:45.721 8efc Generated table #1352@1: 29526 keys, 2271667 bytes
+2025/06/03-16:08:45.775 8efc Generated table #1353@1: 30560 keys, 2258800 bytes
+2025/06/03-16:08:45.804 8efc Generated table #1354@1: 9155 keys, 1002723 bytes
+2025/06/03-16:08:45.804 8efc Compacted 1@1 + 10@2 files => 20751304 bytes
+2025/06/03-16:08:45.806 8efc compacted to: files[ 0 1 22 0 0 0 0 ]
+2025/06/03-16:08:45.806 8efc Delete type=2 #1322
+2025/06/03-16:08:45.806 8efc Delete type=2 #1323
+2025/06/03-16:08:45.806 8efc Delete type=2 #1324
+2025/06/03-16:08:45.806 8efc Delete type=2 #1325
+2025/06/03-16:08:45.806 8efc Delete type=2 #1326
+2025/06/03-16:08:45.806 8efc Delete type=2 #1327
+2025/06/03-16:08:45.806 8efc Delete type=2 #1328
+2025/06/03-16:08:45.806 8efc Delete type=2 #1329
+2025/06/03-16:08:45.806 8efc Delete type=2 #1330
+2025/06/03-16:08:45.806 8efc Delete type=2 #1331
+2025/06/03-16:08:45.806 8efc Delete type=2 #1343
